@@ -1,0 +1,6 @@
+{
+  "name": "SpriteForge 3D",
+  "description": "AI-guided 2D sprite to 3D model studio with auto-rigging, customizable bone constraints, PBR/shader materials, cloth/hair/soft-body physics, omnidirectional joystick testing, and glTF/GLB/FBX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpriteForge 3D</string>
+    <string name="hub_title">SpriteForge 3D</string>
+    <string name="hub_subtitle">2D Sprite to Rigged 3D Studio</string>
+    <string name="action_import_sprite">Import 2D Sprite</string>
+    <string name="action_open_studio">Open Studio</string>
+    <string name="action_export_model">Export 3D Model</string>
+    <string name="action_retry">Retry Analysis</string>
+    <string name="tab_rig">Rig</string>
+    <string name="tab_materials">Materials</string>
+    <string name="tab_physics">Physics</string>
+    <string name="tab_export">Export</string>
+    <string name="cd_viewport_3d">Interactive 3D character viewport</string>
+    <string name="cd_joystick">Omnidirectional movement joystick</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_skeleton_toggle">Toggle skeleton X-ray overlay</string>
+    <string name="cd_gizmo_toggle">Toggle bone constraint gizmos</string>
+    <string name="cd_reset_camera">Reset 3D camera</string>
+    <string name="cd_wind_gust">Trigger wind gust</string>
+    <string name="error_ai_timeout">Sprite analysis timed out. Check connection and try again.</string>
+</resources>
